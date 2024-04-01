@@ -1,0 +1,66 @@
+[
+    {
+      "id": "1",
+      "cover_photo": "https://th.bing.com/th/id/OIP.tnDa8hwowb6oFooEgOrWRwHaE7?w=227&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+      "title": "The Mystery of the Hidden Treasure",
+      "reading_time": 15,
+      "author_name": "Alexandra Smith",
+      "posted_date": "2024-04-01",
+      "hashtags": ["mystery", "adventure", "treasure"]
+    },
+    {
+      "id": "2",
+      "cover_photo": "https://th.bing.com/th/id/OIP.tnDa8hwowb6oFooEgOrWRwHaE7?w=227&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+      "title": "Exploring the Unknown Forest",
+      "reading_time": 20,
+      "author_name": "David Johnson",
+      "posted_date": "2024-03-30",
+      "hashtags": ["nature", "exploration", "forest"]
+    },
+    {
+      "id": "3",
+      "cover_photo": "https://th.bing.com/th/id/OIP.tnDa8hwowb6oFooEgOrWRwHaE7?w=227&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+      "title": "Cooking with Flavors: A Culinary Adventure",
+      "reading_time": 30,
+      "author_name": "Sophia Lee",
+      "posted_date": "2024-03-28",
+      "hashtags": ["cooking", "food", "recipes"]
+    },
+    {
+      "id": "4",
+      "cover_photo": "https://th.bing.com/th/id/OIP.tnDa8hwowb6oFooEgOrWRwHaE7?w=227&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+      "title": "Journey to the Stars: A Cosmic Odyssey",
+      "reading_time": 45,
+      "author_name": "Michael Anderson",
+      "posted_date": "2024-03-25",
+      "hashtags": ["space", "cosmos", "stars"]
+    },
+    {
+      "id": "5",
+      "cover_photo": "https://th.bing.com/th/id/OIP.tnDa8hwowb6oFooEgOrWRwHaE7?w=227&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+      "title": "Unraveling the Secrets of Ancient Civilizations",
+      "reading_time": 25,
+      "author_name": "Emily Thompson",
+      "posted_date": "2024-03-22",
+      "hashtags": ["history", "archaeology", "civilizations"]
+    },
+    {
+      "id": "6",
+      "cover_photo": "https://th.bing.com/th/id/OIP.tnDa8hwowb6oFooEgOrWRwHaE7?w=227&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+      "title": "The Art of Mindfulness: Finding Inner Peace",
+      "reading_time": 10,
+      "author_name": "Daniel Brown",
+      "posted_date": "2024-03-20",
+      "hashtags": ["mindfulness", "meditation", "wellness"]
+    },
+    {
+      "id": "7",
+      "cover_photo": "https://th.bing.com/th/id/OIP.tnDa8hwowb6oFooEgOrWRwHaE7?w=227&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+      "title": "Gardening Guide: Cultivating Your Green Haven",
+      "reading_time": 35,
+      "author_name": "Olivia Wilson",
+      "posted_date": "2024-03-18",
+      "hashtags": ["gardening", "plants", "greenliving"]
+    }
+]
+  
